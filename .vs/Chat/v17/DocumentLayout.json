@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork1\\Chat_Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE9D16-C71A-4305-AB61-69AFBBCFC5AD}|Chat\\Chat.csproj|d:\\geekbrains\\1. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A c#. \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\network1\\chat_pattern\\chat\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE9D16-C71A-4305-AB61-69AFBBCFC5AD}|Chat\\Chat.csproj|solutionrelative:chat\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE9D16-C71A-4305-AB61-69AFBBCFC5AD}|Chat\\Chat.csproj|d:\\geekbrains\\1. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A c#. \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\network1\\chat_pattern\\chat\\massage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE9D16-C71A-4305-AB61-69AFBBCFC5AD}|Chat\\Chat.csproj|solutionrelative:chat\\massage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEE9D16-C71A-4305-AB61-69AFBBCFC5AD}|Chat\\Chat.csproj|d:\\geekbrains\\1. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A c#. \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 c# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\network1\\chat_pattern\\chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEE9D16-C71A-4305-AB61-69AFBBCFC5AD}|Chat\\Chat.csproj|solutionrelative:chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork1\\Chat_Pattern\\Chat\\Chat.cs",
+              "RelativeDocumentMoniker": "Chat\\Chat.cs",
+              "ToolTip": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork1\\Chat_Pattern\\Chat\\Chat.cs",
+              "RelativeToolTip": "Chat\\Chat.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAADgv0EAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:13:51.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Massage.cs",
+              "DocumentMoniker": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork1\\Chat_Pattern\\Chat\\Massage.cs",
+              "RelativeDocumentMoniker": "Chat\\Massage.cs",
+              "ToolTip": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork1\\Chat_Pattern\\Chat\\Massage.cs",
+              "RelativeToolTip": "Chat\\Massage.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAEwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:12:41.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork1\\Chat_Pattern\\Chat\\Program.cs",
+              "RelativeDocumentMoniker": "Chat\\Program.cs",
+              "ToolTip": "D:\\GeekBrains\\1. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C#. \u0421\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\\19. \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F \u043D\u0430 C# (\u0441\u0435\u043C\u0438\u043D\u0430\u0440\u044B)\\NetWork1\\Chat_Pattern\\Chat\\Program.cs",
+              "RelativeToolTip": "Chat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:12:07.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
